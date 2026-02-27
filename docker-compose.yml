@@ -1,0 +1,9 @@
+version: '3.8'
+
+# services:
+  # TODO: Add PostgreSQL service
+  # TODO: Add Redis service
+
+networks:
+  default:
+    name: book-app-network
